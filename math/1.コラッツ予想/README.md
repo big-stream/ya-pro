@@ -136,7 +136,7 @@ newコード: 繰り返し
 ---------------------------------------
 
 
-[ころん:すとりーむ][https://www.youtube.com/channel/UCSlLuUuQpcD5e5NwmooHAIw]
+[ころん:すとりーむ]: https://www.youtube.com/channel/UCSlLuUuQpcD5e5NwmooHAIw
 
-[cc by-sa 4.0][https://creativecommons.org/licenses/by-sa/4.0/deed.ja]
+[cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.ja
 
